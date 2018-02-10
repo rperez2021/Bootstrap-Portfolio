@@ -5,3 +5,7 @@
 .footerh {
     height: 60px;
 }
+
+body {
+    background-image: url("dust_scratches.png");
+}
